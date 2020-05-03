@@ -16,7 +16,7 @@ Outline of the project can be shown in the figure below
 
 ![](https://github.com/bubblecounter/OS-Simulation/blob/master/OS-simulation.jpg)
  
- More detailed info can be found in [here] (https://github.com/bubblecounter/OS-Simulation/blob/master/CS307%20TermProject.pdf)
+ More detailed info can be found in [here](https://github.com/bubblecounter/OS-Simulation/blob/master/CS307%20TermProject.pdf)
  
 ## How it works?
   There are 8 different processes written in assembly language in the source folder. Program executes them and creates output files. 
