@@ -1,0 +1,7 @@
+assemblyInput.asm 1000
+assemblyInput2.asm 2000
+assemblyInput3.asm 2000
+assemblyInput4.asm 2000
+assemblyInput5.asm 2000
+assemblyInput6.asm 2000
+assemblyInput7.asm 2000
